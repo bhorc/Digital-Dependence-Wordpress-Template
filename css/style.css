@@ -250,7 +250,7 @@ a {
 	top: -8px;
 	width: 37px;
 	height: 37px;
-	background-image: url(../img/content__item.svg);
+	background-image: url(../img/svg/content__item.svg);
 }
 
 
@@ -387,14 +387,14 @@ a {
 }
 
 .telegram {
-	background-image: url(../img/Telegram.svg);
+	background-image: url(../img/svg/Telegram.svg);
 }
 .twitter {
-	background-image: url(../img/Twitter.svg);
+	background-image: url(../img/svg/Twitter.svg);
 }
 .facebook {
-	background-image: url(../img/Facebook.svg);
+	background-image: url(../img/svg/Facebook.svg);
 }
 .instagram {
-	background-image: url(../img/Instagram.svg);
+	background-image: url(../img/svg/Instagram.svg);
 }
