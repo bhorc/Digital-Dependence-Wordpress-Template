@@ -9,7 +9,7 @@
 </head>
 <body>
     <div class="container">
-        <div class="nav">
+        <nav class="nav">
             <div class="wrapper">
                 <a href="#" class="nav__logo">
                     <span class="nav__image logo"></span>
@@ -23,8 +23,8 @@
                     <a class="nav__link btn btn-test" href="#">Пройти тест</a>
                 </div>
             </div>
-        </div>
-        <div class="header">
+        </nav>
+        <header class="header">
             <div class="wrapper">
                 <div class="header__content">
                     <h1 class="header__title">Цифровий детокс: <br> як виникає залежність від гаджетів та що дає їх обмеження</h1>
@@ -34,7 +34,7 @@
                 </div>
                 <div class="header__image"></div>
             </div>
-        </div>
+        </header>
         <div class="content">
             <div class="wrapper">
                 <div class="content__section">
@@ -105,7 +105,7 @@
                 </div>
             </div>
         </div>
-        <div class="footer">
+        <footer class="footer">
             <div class="wrapper">
                 <a href="#" class="footer__logo">
                     <span class="footer__image logo"></span>
@@ -148,7 +148,7 @@
                     </div>
                 </div>
             </div>
-        </div>
+        </footer>
     </div>
 </body>
 </html>
