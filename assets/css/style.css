@@ -59,13 +59,16 @@ a {
 	font-size: 22px;
 	line-height: 27px;
 }
-.nav__link {
-	color: #fff;
+.menu-item{
 	position: relative;
 	padding: 0 10px;
 	margin-left: 5px;
 }
-.nav__link:after {
+.menu-item a{
+	color: #fff;
+}
+
+.menu-item:after {
 	content: "";
 	height: 3px;
 	background: #ffc7d4;
@@ -75,8 +78,8 @@ a {
 	width: 0;
 	transition: 0.3s;
 }
-.nav__link:hover:after,
-.nav__link-active:after {
+.menu-item:hover:after,
+.current-menu-item:after {
 	left: 0;
 	width: 100%;
 }
